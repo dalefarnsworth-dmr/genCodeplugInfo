@@ -10,4 +10,4 @@ Dale Farnsworth
 
 <dale@farnsworth.org>
 
-IRC: freenode channel: #md380, user: dfarnsworth
+IRC: libera.chat channel: #md380, user: dfarnsworth
